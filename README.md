@@ -5,7 +5,7 @@
 Created an alarm clock using javascript.
 <br>
 
-# Features Required
+# Features 
 
 - <b> Clock showing the current time (seconds,mins,hrs should change as time changes)</b><br>
 
