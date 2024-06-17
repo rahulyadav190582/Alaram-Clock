@@ -1,12 +1,29 @@
 # Alarm-Clock
 
-Created an alarm clock using vanilla JavaScript. 
-It has the following features :
- ->Display current time.
- ->Option to set alarms.
- ->Give an alert message once the current time is the same as the set time.
- ->Display list of alarms added.
- ->Option to delete any set time.
+# Problem Statement
+
+Created an alarm clock using javascript.
+<br>
+
+# Features Required
+
+- <b> Clock showing the current time (seconds,mins,hrs should change as time changes)</b><br>
+
+- <b>User can set the alarm and if the current time is same as set time alert message should pop up</b> <br>
+
+- <b> Display a list of all the alarms set by user</b> <br>
+ 
+- <b>Delete alarm button for every set alarm</b> <br>
+  
+
+<br>
+
+
+
+
+
+
+
 
 
  
